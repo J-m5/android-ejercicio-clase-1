@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">1 app</string>
+    <string name="tvSaludo"> hola mundo</string>
+    <string name="btnsaludo"> Dame click</string>
+    <string name="label_ingresa_saludo">Ingresa un saludo:</string>
+    <string name="hint_escribe_saludo">Escribe tu saludo aquí</string>
+</resources>
